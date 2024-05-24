@@ -1,2 +1,17 @@
-
 /* Your CSS Code here. */
+.container{
+	border: 1px solid;
+	width:50%;	
+	padding:20px;
+	background-color:mistyrose;
+	color:blueviolet;
+}
+#submit{
+	margin:10px 0 10px 150px;
+	padding:15px;
+	border: 2px solid;
+	border-radius:20px;
+	font-size:20px;
+	background-color:pink;
+	color:blueviolet;
+}
